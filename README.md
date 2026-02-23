@@ -16,12 +16,11 @@
 
 ## About
 
-> 13+ years in Crypto | 3+ years building on Solana | Holder de Sagamonke
+> 13+ years in Crypto | 3+ years building on Solana | Holder of Sagamonke
 
 Web3 builder focused on Solana ecosystem. Creating tools that bridge AI with blockchain technology.
 
 Member of La Familia (SuperTeam Spain)
-/ SagaMonkes Holder 
 
 ---
 
