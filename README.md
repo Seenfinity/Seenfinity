@@ -1,33 +1,47 @@
-DANGEL RODRIGUEZ
-==================
+# Dangel Rodriguez (Seenfinity) ⚔️
 
-Web3 Builder | 13+ Years Crypto | 3+ Years Solana
-Building the future of decentralized AI and security
+Web3 Builder | 13+ Years in Crypto | 3+ Years on Solana
 
-La Familia (SuperTeam Spain)
+Building the future of decentralized AI and security.
 
-Connect
--------
-Telegram: @Seenfinity
-Twitter: @Seenfinity
+Member of La Familia (SuperTeam Spain)
 
-Featured Projects
------------------
-TixFlow - AI event concierge + cNFT ticketing
-https://github.com/Seenfinity/tixflow
+---
 
-NOVA AI Detector - Web3 security extension
-https://chromewebstore.google.com/detail/nova-ai-detector/pinjfnmncbchdfchdgcfkcebmcegkhhl
+## About
 
-OrberAI - AI trading ecosystem
-https://github.com/GalaxyHubLabs/OrberAI-Dapp
+Focused on Solana ecosystem and Web3 innovation. Creating tools that bridge AI with blockchain technology.
 
-OpenClaw Solana Connect - OpenClaw skill
-https://github.com/Seenfinity/openclaw-solana-connect
+---
 
-Skills
-------
-TypeScript, JavaScript, React, Next.js
-Node.js, Python
-Solana, Rust, Solidity
-Git, Docker
+## Featured Projects
+
+🚀 **TixFlow** - AI-powered event concierge with cNFT ticketing
+- Demo: https://frontend-smoky-seven-13.vercel.app/chat
+- GitHub: https://github.com/Seenfinity/tixflow
+
+🔒 **NOVA AI Detector** - Web3 security extension
+- Chrome: https://chromewebstore.google.com/detail/nova-ai-detector/pinjfnmncbchdfchdgcfkcebmcegkhhl
+
+🤖 **OrberAI** - Personal AI Agent on Solana
+- GitHub: https://github.com/GalaxyHubLabs/OrberAI-Dapp
+
+📊 **Solana Narrative Detector** - AI tool for detecting emerging Solana narratives
+- GitHub: https://github.com/Seenfinity/solana-narrative-detector
+
+🔗 **OpenClaw Solana Connect** - OpenClaw skill for Solana
+- GitHub: https://github.com/Seenfinity/openclaw-solana-connect
+
+---
+
+## Tech Stack
+
+TypeScript, JavaScript, Python, Rust, Solidity, React, Next.js, Node.js, Solana
+
+---
+
+## Connect
+
+- Telegram: @Seenfinity
+- Twitter: @Seenfinity
+- BitcoinTalk: Dangelxp
