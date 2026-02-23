@@ -21,6 +21,7 @@
 Web3 builder focused on Solana ecosystem. Creating tools that bridge AI with blockchain technology.
 
 Member of La Familia (SuperTeam Spain)
+SagaMonkes Holder 
 
 ---
 
