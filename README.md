@@ -16,7 +16,7 @@
 
 ## About
 
-> 13+ years in Crypto | 3+ years building on Solana
+> 13+ years in Crypto | 3+ years building on Solana | Holder de Sagamonke
 
 Web3 builder focused on Solana ecosystem. Creating tools that bridge AI with blockchain technology.
 
@@ -37,8 +37,8 @@ Member of La Familia (SuperTeam Spain)
 | Project | Description | Links |
 |---------|------------|-------|
 | **TixFlow** | AI-powered event concierge with cNFT ticketing | [Demo](https://frontend-smoky-seven-13.vercel.app/chat) · [GitHub](https://github.com/Seenfinity/tixflow) |
-| **NOVA AI Detector** | Web3 security extension - protects from scams | [Chrome Store](https://chromewebstore.google.com/detail/nova-ai-detector/pinjfnmncbchdfchdgcfkcebmcegkhhl) |
 | **OrberAI** | Personal AI Agent on Solana | [GitHub](https://github.com/GalaxyHubLabs/OrberAI-Dapp) |
+| **NOVA AI Detector** | Web3 security extension - protects from scams | [Chrome Store](https://chromewebstore.google.com/detail/nova-ai-detector/pinjfnmncbchdfchdgcfkcebmcegkhhl) |
 | **Solana Narrative Detector** | AI tool for detecting emerging Solana narratives | [GitHub](https://github.com/Seenfinity/solana-narrative-detector) |
 | **OpenClaw Solana Connect** | OpenClaw skill for Solana blockchain | [GitHub](https://github.com/Seenfinity/openclaw-solana-connect) |
 
