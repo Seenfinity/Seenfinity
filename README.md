@@ -1,42 +1,42 @@
-# Dangel Rodriguez (Seenfinity)
+# DANGEL RODRIGUEZ
+==================
 
 Web3 Builder | 13+ Years in Crypto | 3+ Years on Solana
 
+Building the future of decentralized AI and security.
+
 Member of La Familia (SuperTeam Spain)
 
----
+---------------
+Connect With Me
 
-## About
+» Telegram → @Seenfinity
+» Twitter → @Seenfinity
+» Email → (ask in Telegram)
 
-Building the future of decentralized AI and security. Focused on Solana ecosystem and Web3 innovation.
+---------------
+Featured Projects
 
----
+● TixFlow
+ AI-powered event concierge with cNFT ticketing on Solana
+ Links: https://frontend-smoky-seven-13.vercel.app/chat | https://github.com/Seenfinity/tixflow
 
-## Featured Projects
+● NOVA AI Detector
+ Web3 security extension - protects from scams and phishing
+ Links: https://chromewebstore.google.com/detail/nova-ai-detector/pinjfnmncbchdfchdgcfkcebmcegkhhl
 
-**TixFlow** - AI-powered event concierge with cNFT ticketing
-- [Demo](https://frontend-smoky-seven-13.vercel.app/chat)
-- [GitHub](https://github.com/Seenfinity/tixflow)
+● OrberAI
+ AI-powered trading ecosystem
+ Links: https://github.com/GalaxyHubLabs/OrberAI-Dapp
 
-**NOVA AI Detector** - Web3 security extension
-- [Chrome Store](https://chromewebstore.google.com/detail/nova-ai-detector/pinjfnmncbchdfchdgcfkcebmcegkhhl)
+● OpenClaw Solana Connect
+ OpenClaw skill for Solana blockchain
+ Links: https://github.com/Seenfinity/openclaw-solana-connect
 
-**OrberAI** - AI-powered trading ecosystem
-- [GitHub](https://github.com/GalaxyHubLabs/OrberAI-Dapp)
+---------------
+Skills & Tools
 
-**OpenClaw Solana Connect** - OpenClaw skill for Solana
-- [GitHub](https://github.com/Seenfinity/openclaw-solana-connect)
-
----
-
-## Tech Stack
-
-TypeScript, JavaScript, Python, Rust, Solidity, React, Next.js, Node.js, Solana
-
----
-
-## Connect
-
-- Telegram: @Seenfinity
-- Twitter: @Seenfinity
-- BitcoinTalk: Dangelxp
+» Frontend: TypeScript, JavaScript, React, Next.js
+» Backend: Node.js, Python
+» Blockchain: Solana, Rust, Solidity
+» Tools: Git, Docker, AWS
