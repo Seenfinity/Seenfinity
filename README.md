@@ -1,65 +1,43 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=300&section=header&text=SEENFINITY&fontSize=90" width="100%" />
-</p>
+# Dangel · `@Seenfinity`
 
-<p align="center">
-  <a href="https://twitter.com/Seenfinity">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://t.me/Seenfinity">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/SuperTeam%20Spain-La%20Familia-00D4FF?style=for-the-badge" />
-</p>
+Building observability tooling for AI agents — and shipping consumer crypto on the side.
+
+Member of [La Familia](https://superteam.fun/) (SuperTeam Spain). 13 years in crypto, the last 3 on Solana.
 
 ---
 
-## About
+## What I'm working on right now
 
-> 13+ years in Crypto | 3+ years building on Solana | Holder of Sagamonke
+### [Voight](https://voight.xyz) — observability for AI agents
 
-Web3 builder focused on Solana ecosystem. Creating tools that bridge AI with blockchain technology.
+Four open-source packages on npm, one dashboard at [voight.xyz](https://voight.xyz):
 
-Member of La Familia (SuperTeam Spain)
+| Package | What it is |
+| --- | --- |
+| [`@voightxyz/sdk`](https://www.npmjs.com/package/@voightxyz/sdk) | Coding-agent hooks (Claude Code, Cursor) + scaffold wizard for production LLM apps |
+| [`@voightxyz/vercel-ai`](https://www.npmjs.com/package/@voightxyz/vercel-ai) | OpenTelemetry SpanExporter for the Vercel AI SDK |
+| [`@voightxyz/openai`](https://www.npmjs.com/package/@voightxyz/openai) | Direct wrapper for the OpenAI Node SDK |
+| [`@voightxyz/anthropic`](https://www.npmjs.com/package/@voightxyz/anthropic) | Direct wrapper for the Anthropic Node SDK |
 
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust,solidity,react,nextjs,nodejs,html,css,tailwind,git,docker,aws,solana" />
-</p>
-
----
-
-## Featured Projects
-
-| Project | Description | Links |
-|---------|------------|-------|
-| **TixFlow** | AI-powered event concierge with cNFT ticketing | [Demo](https://frontend-smoky-seven-13.vercel.app/chat) · [GitHub](https://github.com/Seenfinity/tixflow) |
-| **OrberAI** | Personal AI Agent on Solana | [GitHub](https://github.com/GalaxyHubLabs/OrberAI-Dapp) |
-| **NOVA AI Detector** | Web3 security extension - protects from scams | [Chrome Store](https://chromewebstore.google.com/detail/nova-ai-detector/pinjfnmncbchdfchdgcfkcebmcegkhhl) |
-| **Solana Narrative Detector** | AI tool for detecting emerging Solana narratives | [GitHub](https://github.com/Seenfinity/solana-narrative-detector) |
-| **OpenClaw Solana Connect** | OpenClaw skill for Solana blockchain | [GitHub](https://github.com/Seenfinity/openclaw-solana-connect) |
+Per-user cost attribution, prompt/tool capture with PII scrubbing, Sentry-style error clustering, anomaly detection on event-rate + error-rate. Apache 2.0.
 
 ---
 
-## Connect
+## Other things worth seeing
 
-- Telegram: @Seenfinity
-- Twitter: @Seenfinity  
-- BitcoinTalk: Dangelxp
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Seenfinity&label=Profile%20Views&color=00D4FF&style=flat" />
-</p>
+- [`Seenfinity/nosship`](https://github.com/Seenfinity/nosship) — Personal Agent Factory. Describe an AI agent in plain English, NosShip builds it on ElizaOS v2 + Nosana GPU. **29★**
+- [`GalaxyHubLabs/wdk-template-nextjs`](https://github.com/GalaxyHubLabs/wdk-template-nextjs) — Next.js wallet starter on Tether's WDK. Serves both humans and AI agents from the same codebase.
 
 ---
 
-<div align="center">
+## Stack I reach for
 
-Building the future, one block at a time.
+TypeScript · Next.js · Node · Prisma + Postgres · Solana web3.js / Anchor · OpenTelemetry · Rust (occasionally)
 
-</div>
+---
+
+## Reach me
+
+- X — [@Seenfinity](https://twitter.com/Seenfinity)
+- Telegram — [@Seenfinity](https://t.me/Seenfinity)
+- Email — `dangelxp2@gmail.com`
