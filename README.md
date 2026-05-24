@@ -32,7 +32,7 @@ Per-user cost attribution, prompt/tool capture with PII scrubbing, Sentry-style 
 
 ## Stack I reach for
 
-TypeScript · Next.js · Node · Prisma + Postgres · Solana web3.js / Anchor · OpenTelemetry · Rust (occasionally)
+TypeScript · Next.js · Node · Prisma + Postgres · Python · Anchor · OpenTelemetry · Rust (occasionally)
 
 ---
 
