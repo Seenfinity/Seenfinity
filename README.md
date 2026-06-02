@@ -40,4 +40,4 @@ TypeScript · Next.js · Node · Prisma + Postgres · Python · Anchor · OpenTe
 
 - X — [@Seenfinity](https://twitter.com/Seenfinity)
 - Telegram — [@Seenfinity](https://t.me/Seenfinity)
-- Email — `dangelxp2@gmail.com`
+- Email — `team@voight.xyz`
