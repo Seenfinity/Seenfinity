@@ -25,7 +25,7 @@ Per-user cost attribution, prompt/tool capture with PII scrubbing, Sentry-style 
 
 ## Other things worth seeing
 
-- [`Seenfinity/nosship`](https://github.com/Seenfinity/nosship) — Personal Agent Factory. Describe an AI agent in plain English, NosShip builds it on ElizaOS v2 + Nosana GPU. **29★**
+- [`Seenfinity/nosship`](https://github.com/Seenfinity/nosship) — Personal Agent Factory. Describe an AI agent in plain English, NosShip builds it on ElizaOS v2 + Nosana GPU. **53★**
 - [`GalaxyHubLabs/wdk-template-nextjs`](https://github.com/GalaxyHubLabs/wdk-template-nextjs) — Next.js wallet starter on Tether's WDK. Serves both humans and AI agents from the same codebase.
 
 ---
